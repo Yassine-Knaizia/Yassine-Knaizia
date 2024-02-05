@@ -22,6 +22,8 @@
 
 ![Yassine-Knaizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-Knaizia&show_icons=true&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Knaizia&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yassine-Knaizia)](https://git.io/streak-stats&theme=dracula)
+
 
 
 
