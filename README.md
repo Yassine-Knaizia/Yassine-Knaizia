@@ -20,9 +20,9 @@
 
 ![Capture d’écran du 2024-02-05 13-23-25](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/0edbfbb4-3187-42c9-a7f1-9b9441429c26)
 
-[![Yassine-Knaizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-Knaizia)](https://github.com/Yassine-Knaizia/github-readme-stats&theme=radical)
+[![Yassine-Knaizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-Knaizia)](https://github.com/Yassine-Knaizia/github-readme-stats&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Knaizia)](https://github.com/Yassine-Knaizia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Knaizia&layout=pie)](https://github.com/Yassine-Knaizia/github-readme-stats)
+
 
 
 
