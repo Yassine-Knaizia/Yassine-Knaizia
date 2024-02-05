@@ -1,4 +1,4 @@
-![lapsus](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/879bd560-7de6-4fec-8291-519d069cb908)
+![hack-hacker](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/f9d4de56-24cf-4c98-8a87-bf9f2cda5c55)
 
 # **Hi I'm Yassin Knaizia 👋**
 
