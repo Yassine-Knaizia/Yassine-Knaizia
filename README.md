@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on NextJs apps
 
-🌱 I’m currently learning NestJs
+🌱 I’m currently learning NestJs & Gatsby
 
 💬 Ask me about Web, MERN
 
