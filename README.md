@@ -1,4 +1,4 @@
-![giphy](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/5f1b058a-c0f0-4014-a2ed-f49d532cb6e1)
+https://giphy.com/embed/4ReK5ligyz4PvUzfGl
 
 # **Hi 👋 I'm Yassin Knaizia**
 
