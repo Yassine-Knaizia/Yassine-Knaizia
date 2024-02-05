@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 💬 Ask me about Web, MERN
 
-📫 How to reach me: yknaizia0@gmail.com
+📫 How to reach me: yknaizia@gmail.com
 
 ⚡ Fun fact: Sometimes my hair looks like Einstein's hair 
 
