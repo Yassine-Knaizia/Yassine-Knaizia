@@ -28,6 +28,9 @@
 
 ![Yassine-Knaizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-Knaizia&show_icons=true&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-Knaizia&theme=dracula)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine-knaizia&show_icons=true&locale=en&layout=compact" alt="yassine-knaizia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-knaizia&show_icons=true&locale=en" alt="yassine-knaizia" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yassine-Knaizia&theme=dracula)](https://git.io/streak-stats)
 
 
