@@ -1,4 +1,4 @@
-![Uploading 0f2b56b245f3d615b799894f2fbddad4.gif…]()
+![lapsus](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/879bd560-7de6-4fec-8291-519d069cb908)
 
 # **Hi I'm Yassin Knaizia 👋**
 
