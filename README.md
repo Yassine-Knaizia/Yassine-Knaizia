@@ -14,7 +14,13 @@
 
 # **Connect with me:**
 
-![SocialMediaIcons](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/b15d232a-ef66-4a85-8057-67255708cf98)
+<p align="left">
+<a href="https://linkedin.com/in/knaizia-yassine-7b3852121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knaizia-yassine-7b3852121" height="30" width="40" /></a>
+<a href="https://fb.com/yassine.knaizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine.knaizia" height="30" width="40" /></a>
+<a href="https://instagram.com/yassineknaizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassineknaizia" height="30" width="40" /></a>
+<a href="https://medium.com/@yassine.knaizia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yassine.knaizia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/knaizia-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knaizia-developer" height="30" width="40" /></a>
+</p>
 
 # **Languages and Tools:**
 
