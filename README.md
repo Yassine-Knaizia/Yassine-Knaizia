@@ -4,9 +4,9 @@
 
 **
 
-🔭 I’m currently working on NextJs apps
+🔭 I’m currently working on VR & AR apps 
 
-🌱 I’m currently learning NestJs & Gatsby
+🌱 I’m currently learning react-three/fiber 
 
 💬 Ask me about Web, MERN
 
