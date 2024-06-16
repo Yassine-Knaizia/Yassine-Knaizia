@@ -1,6 +1,7 @@
 ![0274207612d515f49012c87803a9e631](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/8389382a-e601-413d-b366-9f2e4deef989)
 
-# **Hi 👋 I'm ![Yassin-Knaizia-17-06-2024](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/32af156b-d02d-460b-b27f-3ec2bc070c8e)
+# **![Hi-I-m-Yassin-Knaizia-17-06-2024](https://github.com/Yassine-Knaizia/Yassine-Knaizia/assets/66827202/b4c78e97-6fa8-4477-9cf2-baff075f505d)
+
 **
 
 🔭 I’m currently working on NextJs apps
