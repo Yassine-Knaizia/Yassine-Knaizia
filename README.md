@@ -4,11 +4,11 @@
 
 **
 
-🔭 I’m currently working on VR & AR apps 
+🔭 I’m currently working on VR & AR apps
 
-🌱 I’m currently learning react-three/fiber 
+🌱 I’m currently learning cybersecurity and exploring pentesting, as well as enhancing my 3D skills with react-three/fiber
 
-💬 Ask me about Web, MERN
+💬 Ask me about Web Development, MERN, or building interactive and immersive applications
 
 📫 How to reach me: yknaizia@gmail.com
 
